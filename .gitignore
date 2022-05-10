@@ -1,0 +1,13 @@
+# raw data
+original_data/
+
+# processed data (too large for github)
+runs_combined.rds
+
+# shinyapps.io deployment (user-dependent) 
+rsconnect/
+  
+.env
+.DS_Store
+  
+  
